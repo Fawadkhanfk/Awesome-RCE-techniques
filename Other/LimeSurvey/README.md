@@ -5,7 +5,7 @@ LimeSurvey is a free and open source on-line statistical survey web app written 
  - https://www.limesurvey.org/
  - https://community.limesurvey.org/downloads/
 
-## Techniques to achieve RCE with LimeSurvey
+## Techniques to achieve RCE on LimeSurvey
 
 ### With admin credentials
 

@@ -7,7 +7,7 @@ Gitea is a community managed lightweight code hosting solution written in Go. It
  - **Official Site:** https://gitea.io/en-us/
  - **Source Code:** https://github.com/go-gitea/
 
-## Techniques to achieve RCE with GiTea
+## Techniques to achieve RCE on GiTea
 
 ### With user credentials
 
